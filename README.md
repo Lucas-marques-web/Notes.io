@@ -27,6 +27,7 @@ Then, start the development server:
 
 ## Try it Out
 
-Image of the project ![Image of the Project](public/notes.png)
+### Image of the Project
+![Image of the Project](notes.png)
 * Notes.io : [ Link to try ](https://lucas-marques-web.github.io/Notes.io/)
 * Notes.io :[ github repository ](https://github.com/Lucas-marques-web/Notes.io)
