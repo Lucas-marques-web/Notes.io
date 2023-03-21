@@ -1,4 +1,4 @@
-# React Bootstrap Notepad App
+# Notes.io
 This is a notepad application built with React and Bootstrap. It allows users to create and delete notes in a responsive web interface.
 
 ## Features
