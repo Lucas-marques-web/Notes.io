@@ -25,9 +25,9 @@ Then, start the development server:
 * HTML/CSS
 * javascript
 
-## Try it Out
+## Live Server
+* [GitHub Repo](https://github.com/Lucas-marques-web/Notes.io)
+* [Live-Demo](https://lucas-marques-web.github.io/Notes.io/)
 
-### Image of the Project
+## Image of the Project
 ![Image of the Project](notes.png)
-* Notes.io : [ Link to try ](https://lucas-marques-web.github.io/Notes.io/)
-* Notes.io :[ github repository ](https://github.com/Lucas-marques-web/Notes.io)
